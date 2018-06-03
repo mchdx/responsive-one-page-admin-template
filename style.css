@@ -1,0 +1,10 @@
+.area{
+    position: sticky;
+    margin: 4rem 0 0 0;
+    z-index: 1000;
+    height: calc(100vh - 4.5rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: block;    
+    padding: 7px;
+}
